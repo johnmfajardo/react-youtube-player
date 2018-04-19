@@ -1,2 +1,2 @@
 # React YouTube Player
-A YouTube Player made primarily with React and other technologies
+A YouTube Player made with React and other web technologies
